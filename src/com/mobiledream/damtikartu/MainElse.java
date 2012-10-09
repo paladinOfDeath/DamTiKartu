@@ -1,0 +1,39 @@
+package com.mobiledream.damtikartu;
+
+import android.view.View;
+
+import com.mobiledream.common.Screen;
+
+public class MainElse extends Screen {
+
+	@Override
+	public void createElements() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void onEnter() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void onLeave() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void OnCreatedListeners() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void OnClick(View v) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

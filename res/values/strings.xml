@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, DamTiKartuActivity!</string>
+    
+    <string name="main">DamTiKartu</string>
+    <string name="offer">DamTiKartu</string>
+    <string name="need">DamTiKartu</string>
+    <string name="mainelse">DamTiKartu</string>
+    
+    <string name="offerButton">Offer ticket</string>
+    <string name="needButton">Need ticekt</string>
+    <string name="elseButton">Something else&#8230;</string>
+    
+    <!-- offer screen labels -->
+    <string name="concert">Concert:</string>
+    <string name="date">Date:</string>
+
+</resources>
